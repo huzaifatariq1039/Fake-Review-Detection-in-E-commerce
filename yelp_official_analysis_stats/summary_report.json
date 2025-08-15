@@ -1,0 +1,26 @@
+{
+  "analysis_timestamp": "2025-08-15T04:04:56.064246",
+  "dataset_source": "Official Yelp Dataset from Kaggle",
+  "dataset_url": "https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset",
+  "dataset_directory": "data/yelp_dataset/",
+  "analysis_type": "Sentiment Analysis (Positive vs Negative)",
+  "sample_size": 66137,
+  "best_performing_model": "Logistic Regression",
+  "best_f1_score": 1.0,
+  "best_accuracy": 1.0,
+  "total_features_extracted": 40,
+  "data_coverage": {
+    "unique_businesses": 2109,
+    "unique_users": 56222,
+    "unique_cities": 247,
+    "date_span_years": 13
+  },
+  "key_insights": {
+    "avg_positive_review_length": 493.0882347447655,
+    "avg_negative_review_length": 678.4199079218923,
+    "positive_reviews_more_enthusiastic": true,
+    "rating_sentiment_correlation": 0.6358978629438108,
+    "business_rating_alignment": 0.40615566590791663,
+    "user_activity_impact": 0.05412844179539292
+  }
+}

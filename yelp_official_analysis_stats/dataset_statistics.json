@@ -1,0 +1,28 @@
+{
+  "total_reviews": 66137,
+  "positive_reviews": 53539,
+  "negative_reviews": 12598,
+  "positive_percentage": 80.9516609462177,
+  "negative_percentage": 19.0483390537823,
+  "rating_distribution": {
+    "1.0": 6619,
+    "2.0": 5979,
+    "4.0": 20188,
+    "5.0": 33351
+  },
+  "unique_businesses": 2109,
+  "unique_users": 56222,
+  "unique_cities": 247,
+  "date_range": {
+    "earliest_review": "2005-03-01 17:47:15",
+    "latest_review": "2018-10-04 18:03:09"
+  },
+  "avg_review_length_positive": 493.0882347447655,
+  "avg_review_length_negative": 678.4199079218923,
+  "avg_word_count_positive": 91.07753226619847,
+  "avg_word_count_negative": 128.03484680107954,
+  "avg_sentiment_positive": 0.873150581818861,
+  "avg_sentiment_negative": 0.08558595808858549,
+  "avg_business_stars": 3.8713352586298138,
+  "avg_business_review_count": 504.1008815035457
+}

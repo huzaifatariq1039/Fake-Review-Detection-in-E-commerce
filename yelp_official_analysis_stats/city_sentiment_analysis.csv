@@ -1,0 +1,111 @@
+city,avg_sentiment,review_count,avg_stars
+Ardmore,0.75,236,3.864
+Avon,0.719,64,3.719
+Bala Cynwyd,0.75,92,3.935
+Ballwin,0.897,78,4.333
+Bensalem,0.839,112,4.143
+Blue Bell,0.901,71,4.352
+Boise,0.815,480,4.071
+Brandon,0.815,271,4.033
+Brentwood,0.802,212,3.972
+Bryn Mawr,0.734,143,3.755
+Carmel,0.85,341,4.079
+Carpinteria,0.831,360,4.131
+Chalfont,0.857,77,4.338
+Cherry Hill,0.711,412,3.704
+Chesterfield,0.778,63,3.937
+Clayton,0.868,227,4.3
+Clearwater,0.828,574,4.15
+Clearwater Beach,0.76,342,3.807
+Collingswood,0.888,178,4.303
+Conshohocken,0.722,108,3.824
+Downingtown,0.509,57,3.053
+Doylestown,0.848,138,4.174
+Dunedin,0.758,161,3.95
+Edmonton,0.805,462,3.957
+Edwardsville,0.774,115,3.957
+Exton,0.713,223,3.623
+Fairview Heights,0.785,65,3.985
+Fishers,0.753,227,3.806
+Florissant,0.946,56,4.536
+Franklin,0.793,676,3.976
+Glassboro,0.667,57,3.544
+Goleta,0.726,434,3.74
+Goodlettsville,0.868,68,4.265
+Haddonfield,0.9,50,4.44
+Hatboro,0.701,87,3.678
+Hendersonville,0.725,51,3.804
+Hermitage,0.833,66,4.212
+Hudson,0.75,64,3.828
+Indian Rocks Beach,0.614,101,3.287
+Indianapolis,0.843,3434,4.135
+Jenkintown,0.855,55,4.091
+Kenner,0.789,337,3.955
+King Of Prussia,0.8,65,3.954
+King of Prussia,0.703,101,3.634
+Langhorne,0.706,51,3.529
+Largo,0.856,118,4.254
+Lutz,0.789,147,4.054
+Madeira Beach,0.661,109,3.615
+Malvern,0.828,128,4.055
+Maplewood,0.809,162,4.105
+Marlton,0.791,67,4.015
+Media,0.792,250,3.94
+Meridian,0.643,126,3.5
+Metairie,0.719,441,3.714
+Montecito,0.844,122,4.107
+Moorestown,0.808,78,3.949
+Mooresville,0.83,53,3.925
+Mount Juliet,0.945,55,4.491
+Mount Laurel,0.718,71,3.718
+Nashville,0.789,4702,3.946
+New Hope,0.536,56,3.089
+New Orleans,0.846,9204,4.154
+New Port Richey,0.778,72,4.028
+Newark,0.82,50,3.9
+Newtown,0.894,123,4.488
+Oro Valley,0.707,92,3.63
+Palm Harbor,0.882,127,4.323
+Philadelphia,0.819,12564,4.023
+Phoenixville,0.877,81,4.321
+Pinellas Park,0.81,226,3.982
+Plymouth Meeting,0.514,107,2.953
+Reno,0.819,3325,4.068
+Riverview,0.75,152,3.862
+Royersford,0.855,55,4.218
+Runnemede,0.6,55,3.309
+Safety Harbor,0.738,80,3.788
+Saint Louis,0.836,3311,4.117
+Saint Pete Beach,0.729,166,3.801
+Saint Petersburg,0.883,711,4.354
+Santa Barbara,0.836,2740,4.146
+Sicklerville,0.625,64,3.297
+Smyrna,0.814,129,4.031
+South Pasadena,0.898,59,4.288
+Southampton,0.867,120,4.375
+Sparks,0.641,376,3.444
+Spring Hill,0.82,61,4.164
+Springfield,0.626,182,3.467
+St Charles,0.704,142,3.725
+St Louis,0.726,296,3.645
+St Petersburg,0.849,325,4.191
+St. Louis,0.735,324,3.731
+St. Pete Beach,0.833,138,4.138
+St. Petersburg,0.86,458,4.251
+Tampa,0.787,3699,3.947
+Tampa Bay,0.754,57,3.947
+Tarpon Springs,0.894,218,4.284
+Temple Terrace,0.816,76,4.0
+Treasure Island,0.812,144,4.104
+Tucson,0.828,3083,4.106
+University City,0.93,157,4.344
+Valrico,0.919,62,4.532
+Voorhees,0.835,85,4.082
+Wayne,0.855,173,4.092
+Webster Groves,0.855,76,4.171
+Wesley Chapel,0.792,144,3.986
+West Chester,0.75,224,3.808
+Willow Grove,0.827,104,3.99
+Wilmington,0.753,223,3.807
+Wynnewood,0.495,101,2.96
+Zionsville,0.852,61,4.131

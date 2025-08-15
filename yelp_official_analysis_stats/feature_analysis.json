@@ -1,0 +1,362 @@
+{
+  "review_length": {
+    "positive_mean": 493.0882347447655,
+    "negative_mean": 678.4199079218923,
+    "positive_std": 452.0319437023162,
+    "negative_std": 592.2958537746101,
+    "positive_median": 353.0,
+    "negative_median": 502.0,
+    "correlation_with_sentiment": -0.14932690799458015
+  },
+  "word_count": {
+    "positive_mean": 91.07753226619847,
+    "negative_mean": 128.03484680107954,
+    "positive_std": 83.96805924046011,
+    "negative_std": 112.4953781528808,
+    "positive_median": 65.0,
+    "negative_median": 95.0,
+    "correlation_with_sentiment": -0.15902218825907305
+  },
+  "exclamation_count": {
+    "positive_mean": 1.4740096004781562,
+    "negative_mean": 0.8687886966185109,
+    "positive_std": 2.2512052979279744,
+    "negative_std": 2.4421562177273963,
+    "positive_median": 1.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.10328192881680835
+  },
+  "question_count": {
+    "positive_mean": 0.10392424214124284,
+    "negative_mean": 0.356405778695031,
+    "positive_std": 0.46922881334101646,
+    "negative_std": 1.3219448355594232,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.13736893368013237
+  },
+  "caps_ratio": {
+    "positive_mean": 0.0,
+    "negative_mean": 0.0,
+    "positive_std": 0.0,
+    "negative_std": 0.0,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": NaN
+  },
+  "sentence_count": {
+    "positive_mean": 8.415267375184445,
+    "negative_mean": 10.471344657882204,
+    "positive_std": 5.816025181508545,
+    "negative_std": 7.504464842436524,
+    "positive_median": 7.0,
+    "negative_median": 8.0,
+    "correlation_with_sentiment": -0.12968345350087138
+  },
+  "avg_sentence_length": {
+    "positive_mean": 10.208582437405477,
+    "negative_mean": 11.983641807711479,
+    "positive_std": 4.678722559095095,
+    "negative_std": 7.349901465368456,
+    "positive_median": 9.615384615384615,
+    "negative_median": 11.2,
+    "correlation_with_sentiment": -0.1305768454444501
+  },
+  "repeated_words": {
+    "positive_mean": 0.052485104316479576,
+    "negative_mean": 0.06453405302428956,
+    "positive_std": 0.3471092486943697,
+    "negative_std": 0.3163324067257601,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.013855250168311989
+  },
+  "unique_word_ratio": {
+    "positive_mean": 0.7957076031464225,
+    "negative_mean": 0.7498051211325427,
+    "positive_std": 0.1061856948412425,
+    "negative_std": 0.11714459608487987,
+    "positive_median": 0.7966101694915254,
+    "negative_median": 0.7470233876683203,
+    "correlation_with_sentiment": 0.16409436005667005
+  },
+  "sentiment_score": {
+    "positive_mean": 0.873150581818861,
+    "negative_mean": 0.08558595808858549,
+    "positive_std": 0.23056521748799383,
+    "negative_std": 0.7079831510781349,
+    "positive_median": 0.9477,
+    "negative_median": 0.1835,
+    "correlation_with_sentiment": 0.6391211517711631
+  },
+  "sentiment_positive": {
+    "positive_mean": 0.25715788490633,
+    "negative_mean": 0.10061430385775517,
+    "positive_std": 0.1110225039523793,
+    "negative_std": 0.06684230944677096,
+    "positive_median": 0.242,
+    "negative_median": 0.094,
+    "correlation_with_sentiment": 0.5086110362079157
+  },
+  "sentiment_negative": {
+    "positive_mean": 0.02602364631390202,
+    "negative_mean": 0.09634219717415463,
+    "positive_std": 0.0355134110179654,
+    "negative_std": 0.06809825179192891,
+    "positive_median": 0.013,
+    "negative_median": 0.085,
+    "correlation_with_sentiment": -0.5347186170193711
+  },
+  "sentiment_neutral": {
+    "positive_mean": 0.7168210650180242,
+    "negative_mean": 0.8030390538180663,
+    "positive_std": 0.10596292002366833,
+    "negative_std": 0.08283380046865586,
+    "positive_median": 0.73,
+    "negative_median": 0.81,
+    "correlation_with_sentiment": -0.31513204394178695
+  },
+  "suspicious_pattern_score": {
+    "positive_mean": 2.2959711612095854,
+    "negative_mean": 2.058739482457533,
+    "positive_std": 0.700725689963527,
+    "negative_std": 0.4490852974972033,
+    "positive_median": 2.0,
+    "negative_median": 2.0,
+    "correlation_with_sentiment": 0.13971533429903657
+  },
+  "superlative_count": {
+    "positive_mean": 0.731597527036366,
+    "negative_mean": 0.44689633275123036,
+    "positive_std": 0.8534195111624823,
+    "negative_std": 0.6774924959964541,
+    "positive_median": 1.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.13463646290728515
+  },
+  "enthusiasm_score": {
+    "positive_mean": 1.4740096004781562,
+    "negative_mean": 0.8687886966185109,
+    "positive_std": 2.2512052979279744,
+    "negative_std": 2.4421562177273963,
+    "positive_median": 1.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.10328192881680835
+  },
+  "rating": {
+    "positive_mean": 4.622929079736267,
+    "negative_mean": 1.4745991427210667,
+    "positive_std": 0.4846574343566,
+    "negative_std": 0.4993741995996064,
+    "positive_median": 5.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": 0.9302896199649635
+  },
+  "rating_sentiment_mismatch": {
+    "positive_mean": 0.01580156521414296,
+    "negative_mean": 0.5197650420701698,
+    "positive_std": 0.12470832463740415,
+    "negative_std": 0.4996290204693317,
+    "positive_median": 0.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.6280109394889202
+  },
+  "useful_votes": {
+    "positive_mean": 0.7276564747193635,
+    "negative_mean": 1.241546277186855,
+    "positive_std": 1.6513168851634374,
+    "negative_std": 2.4383153634066645,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.10975390950742304
+  },
+  "funny_votes": {
+    "positive_mean": 0.2033657707465586,
+    "negative_mean": 0.4223686299412605,
+    "positive_std": 0.8904228238662222,
+    "negative_std": 1.1722891493370118,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.09010325553343114
+  },
+  "cool_votes": {
+    "positive_mean": 0.3915463493901642,
+    "negative_mean": 0.18852198761708208,
+    "positive_std": 1.177152891065003,
+    "negative_std": 0.648840434632544,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.07252864155070321
+  },
+  "business_avg_stars": {
+    "positive_mean": 3.971058480733671,
+    "negative_mean": 3.4475313541832038,
+    "positive_std": 0.48913071202691705,
+    "negative_std": 0.6571108969553341,
+    "positive_median": 4.0,
+    "negative_median": 3.5,
+    "correlation_with_sentiment": 0.36445603969943136
+  },
+  "business_review_count": {
+    "positive_mean": 531.2593249780534,
+    "negative_mean": 388.6828861724083,
+    "positive_std": 701.2336998803494,
+    "negative_std": 555.2029006283196,
+    "positive_median": 285.0,
+    "negative_median": 201.0,
+    "correlation_with_sentiment": 0.08255754097752063
+  },
+  "stars_vs_business_avg": {
+    "positive_mean": 0.6518705990025963,
+    "negative_mean": -1.9729322114621368,
+    "positive_std": 0.6141449119466204,
+    "negative_std": 0.7517157683201013,
+    "positive_median": 0.5,
+    "negative_median": -2.0,
+    "correlation_with_sentiment": 0.8485834233199995
+  },
+  "review_year": {
+    "positive_mean": 2014.8867367713256,
+    "negative_mean": 2014.9892840133355,
+    "positive_std": 2.4292259776646326,
+    "negative_std": 2.2876697376575432,
+    "positive_median": 2015.0,
+    "negative_median": 2015.0,
+    "correlation_with_sentiment": -0.01675614830050162
+  },
+  "review_month": {
+    "positive_mean": 6.270550439866266,
+    "negative_mean": 6.312827432925861,
+    "positive_std": 3.3195297052750847,
+    "negative_std": 3.341058133585768,
+    "positive_median": 6.0,
+    "negative_median": 6.0,
+    "correlation_with_sentiment": -0.004994966293651464
+  },
+  "review_day_of_week": {
+    "positive_mean": 3.083714675283438,
+    "negative_mean": 3.210827115415145,
+    "positive_std": 2.063401605960751,
+    "negative_std": 2.127402856420892,
+    "positive_median": 3.0,
+    "negative_median": 3.0,
+    "correlation_with_sentiment": -0.02404012212972832
+  },
+  "is_weekend": {
+    "positive_mean": 0.3195054072732027,
+    "negative_mean": 0.35839022066994763,
+    "positive_std": 0.46628935551750916,
+    "negative_std": 0.4795465821795102,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.03255142411049288
+  },
+  "user_activity": {
+    "positive_mean": 1.5563607837277498,
+    "negative_mean": 1.3655342117796476,
+    "positive_std": 1.442205236468679,
+    "negative_std": 1.092081632568262,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": 0.05412844179539292
+  },
+  "first_person_count": {
+    "positive_mean": 3.170511216122826,
+    "negative_mean": 5.07953643435466,
+    "positive_std": 4.203605332390782,
+    "negative_std": 6.415146800941946,
+    "positive_median": 2.0,
+    "negative_median": 3.0,
+    "correlation_with_sentiment": -0.15732427650024094
+  },
+  "second_person_count": {
+    "positive_mean": 0.8511178766880219,
+    "negative_mean": 0.8942689315764407,
+    "positive_std": 1.6346294791848652,
+    "negative_std": 1.7192198620134076,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.010262413521280208
+  },
+  "third_person_count": {
+    "positive_mean": 1.2103139767272455,
+    "negative_mean": 2.279885696142245,
+    "positive_std": 1.8728287370885923,
+    "negative_std": 3.168761790488782,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.18919354730824212
+  },
+  "has_restaurant_category": {
+    "positive_mean": 0.8127346420366461,
+    "negative_mean": 0.8301317669471344,
+    "positive_std": 0.39012803854067024,
+    "negative_std": 0.3755319036072498,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.017632312437039575
+  },
+  "has_food_category": {
+    "positive_mean": 0.4430041651879938,
+    "negative_mean": 0.39696777266232736,
+    "positive_std": 0.4967454918945598,
+    "negative_std": 0.4892886299651464,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.03647222612897523
+  },
+  "has_shopping_category": {
+    "positive_mean": 0.0351332673378285,
+    "negative_mean": 0.02651214478488649,
+    "positive_std": 0.18411831532727668,
+    "negative_std": 0.1606589549476222,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": 0.018816450648562306
+  },
+  "has_service_category": {
+    "positive_mean": 0.12913950578083266,
+    "negative_mean": 0.1439117320209557,
+    "positive_std": 0.33535741297633603,
+    "negative_std": 0.35101413875367743,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": -0.017139794813826704
+  },
+  "is_major_city": {
+    "positive_mean": 0.0,
+    "negative_mean": 0.0,
+    "positive_std": 0.0,
+    "negative_std": 0.0,
+    "positive_median": 0.0,
+    "negative_median": 0.0,
+    "correlation_with_sentiment": NaN
+  },
+  "business_words": {
+    "positive_mean": 1.2249388296382078,
+    "negative_mean": 1.328067947293221,
+    "positive_std": 1.018049055675326,
+    "negative_std": 1.1088670011965145,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.039061966416382196
+  },
+  "service_words": {
+    "positive_mean": 1.0589663609705076,
+    "negative_mean": 1.2805207175742181,
+    "positive_std": 1.177373659444509,
+    "negative_std": 1.3349985567893217,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.07177722070962875
+  },
+  "food_words": {
+    "positive_mean": 1.6355180335829955,
+    "negative_mean": 1.7610731862200348,
+    "positive_std": 1.5627957833967099,
+    "negative_std": 1.5641359969790067,
+    "positive_median": 1.0,
+    "negative_median": 1.0,
+    "correlation_with_sentiment": -0.031527780899064564
+  }
+}
